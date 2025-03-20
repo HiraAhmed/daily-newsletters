@@ -3,7 +3,7 @@
 
     **Category:** market trends
 
-    **Date Range:** 2025-03-15 to 2025-03-18
+    **Date Range:** ['2025-03-15', '00:00:00'] to ['2025-03-18', '00:00:00']
 
     ## Top News
     
