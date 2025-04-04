@@ -17,7 +17,7 @@ The Trump administration's 10% baseline tariff on all countries led to a drop in
 **Source:** [https://coinmarketcap.com/community/articles/67ec3408dc7b912b7b3ed5a0/](https://coinmarketcap.com/community/articles/67ec3408dc7b912b7b3ed5a0/)
 
 **Summary:** 
-Bitcoin's reliance on coal for mining has decreased by 68% in the last 13 years, indicating a shift towards more sustainable energy sources. Challenges such as the intermittency of renewables, infrastructure limitations, geographic disparities, and greenwashing concerns need to be addressed. Examples of sustainable Bitcoin mining initiatives include hydroelectric power in Bhutan, solar-powered mining in Texas, and geothermal energy in Iceland.
+Bitcoin's reliance on coal for mining has decreased by 68% in the last 13 years, indicating a shift towards more sustainable energy sources. Organizations like the MiCA Crypto Alliance and Nodiens are tracking and reporting on energy consumption in the crypto mining industry. Examples of sustainable Bitcoin mining initiatives include hydroelectric power in Bhutan, solar-powered mining in Texas, and geothermal energy in Iceland.
     
 ### By 2030, 25% of S&P 500 Firms Expected to Adopt Bitcoin, Say Treasury Heads
 **Source:** [https://coinmarketcap.com/community/articles/67eb7631be4b744ce499c5d4/](https://coinmarketcap.com/community/articles/67eb7631be4b744ce499c5d4/)
