@@ -7,32 +7,26 @@
 
 ## Top News
     
-### U.S. SEC's Regulatory Update Triggers Bitcoin Surge
-**Source:** [https://coinmarketcap.com/community/articles/67f4415d42a4186423378ada/](https://coinmarketcap.com/community/articles/67f4415d42a4186423378ada/)
+### EU Prepares for Additional U.S. Tariffs Amid Trade Conflict
+**Source:** [https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/](https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/)
 
 **Summary:** 
-The U.S. SEC's recent regulatory updates have led to a 10% surge in Bitcoin's value, indicating the significant role regulatory bodies play in the crypto market. Past regulatory changes have also positively impacted market stability, suggesting potential influence on future global crypto regulations.
+The European Union (EU) plans to impose retaliatory tariffs on the United States, escalating trade tensions and potentially impacting various economic sectors. Maros Sefcovic, Trade Commissioner of the EU, emphasizes the need for negotiations to prevent a trade war, while also preparing countermeasures.
+    
+### Finance Redefined Foresees Potential Crypto Market Recovery by June Amid Tariff Concerns
+**Source:** [https://coinmarketcap.com/community/articles/67f01f403a8b2665c004476c/](https://coinmarketcap.com/community/articles/67f01f403a8b2665c004476c/)
+
+**Summary:** 
+Analysts from Nansen predict a 70% chance of cryptocurrency markets hitting a local bottom within the next two months, potentially setting the stage for the next upward cycle in 2025. An anonymous trader has turned a $2,000 investment into over $43 million by trading the memecoin, Pepe. David Pakman from CoinFund expects the global stablecoin supply to reach $1 trillion by the end of 2025, potentially driving the next crypto rally. Despite a 70% increase in Avalanche's stablecoin supply to $2.5 billion, the demand for its utility token, AVAX, remains low due to a lack of DeFi deployment.
     
 ### Massive Disposal of $TRUMP Token, Plummets to 11%
 **Source:** [https://coinmarketcap.com/community/articles/67f424c10d67cc09ac3ce9aa/](https://coinmarketcap.com/community/articles/67f424c10d67cc09ac3ce9aa/)
 
 **Summary:** 
-The $TRUMP token has seen a significant drop in value, intensified by a major sell-off from a key whale investor. An impending supply increase could further strain the token’s price performance, with investors bracing for more volatility. Despite previous gains during Trump-related headlines, the token has failed to respond to recent social media activity from the former president, indicating reliance on Trump’s political persona rather than technical or utility backing.
-    
-### Trump Suggests Extra 50% Duty on Chinese Imports
-**Source:** [https://coinmarketcap.com/community/articles/67f45fe8da25b833409e09d4/](https://coinmarketcap.com/community/articles/67f45fe8da25b833409e09d4/)
-
-**Summary:** 
-Donald Trump's plan to impose an additional 50% tariff on Chinese imports has drawn attention from global financial markets, potentially escalating trade tensions. Investors are responding cautiously, preparing for potential market instability. Historically, such tariffs have had significant economic consequences, and this proposed increase is expected to have a similar impact.
-    
-### EU Prepares for Additional U.S. Tariffs Amid Trade Conflict
-**Source:** [https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/](https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/)
-
-**Summary:** 
-The EU plans to impose retaliatory tariffs on the U.S., escalating trade tensions amid ongoing discussions over subsidies and duties. This action could have significant implications for transatlantic trade relations, with potential economic impacts anticipated in various sectors. EU Trade Commissioner Maros Sefcovic advocates for negotiations to prevent a trade war while also preparing countermeasures, indicating a 'paradigm shift of the global trading system.'
+The $TRUMP token experienced a significant drop, trading around $7.73 by late Monday, due to a major sell-off from a key whale investor. Analysts predict that an impending supply increase could further strain the token’s already weak price performance. The coin’s fundamentals have been criticized for relying more on Donald Trump’s political persona than any solid technical or utility backing. Despite previous gains during Trump-related headlines, the token has failed to respond to recent social media activity from the former president, leaving some holders disillusioned.
     
 ## Trending News
-- [Pectra Upgrade Mainnet Launch Set for May 7 by Ethereum Developers](https://coinmarketcap.com/community/articles/67ef8b987609f53aadd83d7a/)
 - [Binance & Worldpay Enable Effortless Crypto Transactions via Apple & Google Pay](https://coinmarketcap.com/community/articles/67f461135943070ac28aa97d/)
+- [Trump Suggests Extra 50% Duty on Chinese Imports](https://coinmarketcap.com/community/articles/67f45fe8da25b833409e09d4/)
+- [Massive Disposal of $TRUMP Token, Plummets to 11%](https://coinmarketcap.com/community/articles/67f424c10d67cc09ac3ce9aa/)
 - [AI and Social Dapps Spearheading Cryptocurrency Expansion](https://coinmarketcap.com/community/articles/67f2fb94c963f1769b9b8f91/)
-- [SUI Overtakes Tron as Third Most Active Blockchain Daily](https://cryptonews.net/news/altcoins/30770872/)
