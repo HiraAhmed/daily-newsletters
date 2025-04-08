@@ -7,23 +7,32 @@
 
 ## Top News
     
-### AI and Social Dapps Spearheading Cryptocurrency Expansion
-**Source:** [https://coinmarketcap.com/community/articles/67f2fb94c963f1769b9b8f91/](https://coinmarketcap.com/community/articles/67f2fb94c963f1769b9b8f91/)
+### U.S. SEC's Regulatory Update Triggers Bitcoin Surge
+**Source:** [https://coinmarketcap.com/community/articles/67f4415d42a4186423378ada/](https://coinmarketcap.com/community/articles/67f4415d42a4186423378ada/)
 
 **Summary:** 
-AI and social decentralized applications (dapps) are gaining traction in the crypto market, particularly after the post-election market stabilization. Investment focus is shifting towards AI-driven dapps, reflecting historical adoption trends. Joel Kruger, Market Strategist at LMAX Group, predicts a bright future for the crypto market, with significant support from both the U.S. government and the private sector.
+The U.S. SEC's recent regulatory updates have led to a 10% surge in Bitcoin's value, indicating the significant role regulatory bodies play in the crypto market. Past regulatory changes have also positively impacted market stability, suggesting potential influence on future global crypto regulations.
     
-### Ripple (XRP) Faces Challenges: Potential Boon for Mutuum Finance (MUTM)
-**Source:** [https://coinmarketcap.com/community/articles/67ec46e20cdbc85e82e50c55/](https://coinmarketcap.com/community/articles/67ec46e20cdbc85e82e50c55/)
+### Massive Disposal of $TRUMP Token, Plummets to 11%
+**Source:** [https://coinmarketcap.com/community/articles/67f424c10d67cc09ac3ce9aa/](https://coinmarketcap.com/community/articles/67f424c10d67cc09ac3ce9aa/)
 
 **Summary:** 
-Ripple's (XRP) price has fallen by 4.8% in 24 hours to $2.35 due to a sell-off following Ripple's legal settlement with the SEC. Mutuum Finance (MUTM), a decentralized lending project, is gaining interest; it's currently in Phase 4 of its presale, with tokens priced at $0.025 each. Mutuum Finance is completing a smart contract audit with Certik and its focus on real-world financial solutions allows it to thrive regardless of wider market fluctuations.
+The $TRUMP token has seen a significant drop in value, intensified by a major sell-off from a key whale investor. An impending supply increase could further strain the token’s price performance, with investors bracing for more volatility. Despite previous gains during Trump-related headlines, the token has failed to respond to recent social media activity from the former president, indicating reliance on Trump’s political persona rather than technical or utility backing.
     
-### BlockDAG, Aptos, Shiba Inu, & Dogecoin: Cryptos to Keep an Eye on till 2025
-**Source:** [https://coinmarketcap.com/community/articles/67f01a783a8b2665c0044752/](https://coinmarketcap.com/community/articles/67f01a783a8b2665c0044752/)
+### Trump Suggests Extra 50% Duty on Chinese Imports
+**Source:** [https://coinmarketcap.com/community/articles/67f45fe8da25b833409e09d4/](https://coinmarketcap.com/community/articles/67f45fe8da25b833409e09d4/)
 
 **Summary:** 
-BlockDAG, Aptos, Shiba Inu, and Dogecoin are being highlighted as the top long-term cryptocurrencies to watch in 2025, with focus on use cases, speed, and long-term value. BlockDAG is gaining attention due to its strong user activity, constant upgrades, and committed communities, with over 200 dApps being built. Shiba Inu is evolving beyond its meme background with its Shibarium Layer 2 network, which brings faster, lower-cost transactions and supports more apps. Dogecoin continues to hold worldwide attention due to its quick speeds, low costs, and wide name recognition.
+Donald Trump's plan to impose an additional 50% tariff on Chinese imports has drawn attention from global financial markets, potentially escalating trade tensions. Investors are responding cautiously, preparing for potential market instability. Historically, such tariffs have had significant economic consequences, and this proposed increase is expected to have a similar impact.
+    
+### EU Prepares for Additional U.S. Tariffs Amid Trade Conflict
+**Source:** [https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/](https://coinmarketcap.com/community/articles/67f449a4269c07680533c7b4/)
+
+**Summary:** 
+The EU plans to impose retaliatory tariffs on the U.S., escalating trade tensions amid ongoing discussions over subsidies and duties. This action could have significant implications for transatlantic trade relations, with potential economic impacts anticipated in various sectors. EU Trade Commissioner Maros Sefcovic advocates for negotiations to prevent a trade war while also preparing countermeasures, indicating a 'paradigm shift of the global trading system.'
     
 ## Trending News
-- [SMBC's Stablecoin Development in Japan with Avalanche and Fireblocks](https://coinmarketcap.com/community/articles/67ec32f5dc7b912b7b3ed59a/)
+- [Pectra Upgrade Mainnet Launch Set for May 7 by Ethereum Developers](https://coinmarketcap.com/community/articles/67ef8b987609f53aadd83d7a/)
+- [Binance & Worldpay Enable Effortless Crypto Transactions via Apple & Google Pay](https://coinmarketcap.com/community/articles/67f461135943070ac28aa97d/)
+- [AI and Social Dapps Spearheading Cryptocurrency Expansion](https://coinmarketcap.com/community/articles/67f2fb94c963f1769b9b8f91/)
+- [SUI Overtakes Tron as Third Most Active Blockchain Daily](https://cryptonews.net/news/altcoins/30770872/)
