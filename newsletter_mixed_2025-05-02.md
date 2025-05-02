@@ -11,7 +11,7 @@
 **Source:** [https://coinmarketcap.com/community/articles/6810ac77d8976c56819d37e5/](https://coinmarketcap.com/community/articles/6810ac77d8976c56819d37e5/)
 
 **Summary:** 
-Bitcoin Exchange Traded Funds (ETFs) have seen a significant inflow of $3.06 billion in a week, led by BlackRock's contribution of $240 million. This inflow coincides with Bitcoin's price surpassing $94,000, influencing Ethereum's price as well. The stability in the crypto market is largely due to increasing institutional demand, with major players like BlackRock and Fidelity playing pivotal roles. The growing institutional presence in the crypto space is likely to reshape ETF strategies and asset management approaches.
+Bitcoin Exchange Traded Funds (ETFs) have seen a significant inflow of $3.06 billion in a week, led by BlackRock's contribution of $240 million. This inflow coincides with Bitcoin's price surpassing $94,000, influencing Ethereum's price as well. The stability in the crypto market is largely due to increasing institutional demand, with major players like BlackRock and Fidelity playing a pivotal role. The growing institutional presence in the crypto space is likely to reshape ETF strategies and asset management approaches.
     
 ### Cryptocurrency Sentiment Amplified by Fresh SEC Chair
 **Source:** [https://coinmarketcap.com/community/articles/680bddfaf2dda20e5a3bb5d0/](https://coinmarketcap.com/community/articles/680bddfaf2dda20e5a3bb5d0/)
@@ -35,13 +35,13 @@ Tether Gold's total market value has recently surpassed $800 million, backed by 
 **Source:** [https://coinmarketcap.com/community/articles/680de65394b1296c0f15bdf8/](https://coinmarketcap.com/community/articles/680de65394b1296c0f15bdf8/)
 
 **Summary:** 
-Bitcoin has recently climbed over $95,000, marking its strongest performance since late February. Forecasts suggest a significant price rally of 33-66%, which could push Bitcoin's value to approximately $106,000 in the coming months. Some experts suggest that Bitcoin could reach $200,000 by year-end, based on the Power Law model. Ongoing analysis is crucial as traders and market participants navigate this dynamic landscape.
+Bitcoin has recently climbed over $95,000, marking its strongest performance since late February. Sina, co-founder of 21st Capital, suggests that Bitcoin could reach new highs by the end of 2025, potentially between $130,000 and $163,000. Current forecasts suggest a significant price rally of 33-66%, which could push Bitcoin's value to approximately $106,000 in the coming months. Some experts even suggest that Bitcoin could reach $200,000 by year-end, based on the Power Law model.
     
 ### Buterin Showcases Advancements in Ethereum Account Abstraction
 **Source:** [https://coinmarketcap.com/community/articles/680de9d1cf85bf5cb7c66e3d/](https://coinmarketcap.com/community/articles/680de9d1cf85bf5cb7c66e3d/)
 
 **Summary:** 
-Vitalik Buterin, co-founder of Ethereum, provided updates on the progress of account abstraction, a process that is currently 'halfway complete'. Buterin highlighted the potential of account abstraction to transform Ethereum's protocol and user security. Enhancing non-ECDSA accounts to be first-class citizens in Ethereum will improve security with features like quantum resistance and privacy protocols. Buterin specifically discussed EIP-7702, an Ethereum Improvement Proposal related to account abstraction, and the ongoing work required to implement it.
+Vitalik Buterin, co-founder of Ethereum, recently provided updates on the progress of account abstraction, a process that is currently described as 'halfway complete'. Buterin highlighted the potential of account abstraction to transform Ethereum's protocol and user security. Enhancing non-ECDSA accounts to be first-class citizens in Ethereum will improve security with features like quantum resistance and privacy protocols. Buterin specifically discussed EIP-7702, an Ethereum Improvement Proposal related to account abstraction, and the ongoing work required to implement it.
     
 ## Trending News
 - [Exposure of $120B U.S. Treasury in Tether's Q1 2025 Attestation](https://coinmarketcap.com/community/articles/6813ff3136ab7115a6dff686/)
