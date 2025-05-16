@@ -3,15 +3,21 @@
 
 **Category:** mixed
 
-**Date Range:** 2025-05-03 to 2025-05-09
+**Date Range:** 2025-05-09 to 2025-05-16
 
 ## Top News
     
-### Camp Network Unveils K2 Testnet for IP Blockchain
-**Source:** [https://coinmarketcap.com/community/articles/681da8fa8e1aad2885a50391/](https://coinmarketcap.com/community/articles/681da8fa8e1aad2885a50391/)
+### NFT Founder Accused of Stealing Millions from Bitcoin Project
+**Source:** [https://cointelegraph.com/news/nft-bitcoin-project-ceo-stole-millions-partners-allege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound](https://cointelegraph.com/news/nft-bitcoin-project-ceo-stole-millions-partners-allege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 
 **Summary:** 
-Camp Network has launched the K2 Testnet, a significant step in blockchain-based intellectual property (IP) management. The initiative, backed by $30 million in Series A funding, aims to improve the collaboration between artificial intelligence (AI) and IP management. The K2 testnet will explore and refine AI-native creativity and on-chain IP provenance. Camp Network's invitation to the community to participate in the testnet phase underscores their commitment to shaping the future of digital creativity and secure IP management.
+Jonathan Mills, founder of Hashling NFT and a Bitcoin mining venture, is being sued by former business partners for allegedly misappropriating millions of dollars and not distributing promised equity returns. Mills is accused of transferring assets and at least $3 million to his holding company, Satoshi Labs LLC, without consent and then disappearing. The lawsuit accuses Mills of fraud and breach of fiduciary duty, and the plaintiffs are seeking a constructive trust over the project’s assets and full legal restitution. Despite these controversies, Bitcoin's role as a global inflation hedge remains strong, even as the market sees a shift in ownership from retail to institutional investors.
+    
+### American Giant's Largest Altcoin Purchase Yet
+**Source:** [https://cryptonews.net/news/defi/30944258/](https://cryptonews.net/news/defi/30944258/)
+
+**Summary:** 
+The American Giant Company has invested $23.6 million in Solana (SOL), increasing its total holdings to 595,988 SOL valued at $102.7 million, as part of DeFi Development Corp's strategy to bolster its digital asset treasury. The company plans to hold these assets long-term and use them in various validators for yield generation. Ethereum's open interest has surged by 80% since April, reaching a three-month high as its price hit $2,700, while Bitcoin's price remains strong at over $104,000, despite being declared 'dead' more frequently in 2025. Concerns about cryptocurrency's role in illegal activities persist, with charges of narco-terrorism linked to crypto transactions among cartel bosses.
     
 ## Trending News
-- [April 2025 Review: Key Drivers of Crypto Progress](https://coinmarketcap.com/community/articles/681de71576b1ba4809e57915/)
+- [BC.GAME Debuts New Logo, Boosts Crypto in iGaming](https://coinmarketcap.com/community/articles/682464e29ecce73c251ea119/)
