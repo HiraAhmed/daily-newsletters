@@ -7,11 +7,11 @@
 
 ## Top News
     
-### Brave Browser Integrates Cardano Wallet Support
-**Source:** [https://coinmarketcap.com/community/articles/6823204937d9473f5936f1d4/](https://coinmarketcap.com/community/articles/6823204937d9473f5936f1d4/)
+### ChainGPT Boosts Liquidity via Solana Expansion
+**Source:** [https://coinmarketcap.com/community/articles/68231f05975d910b7d690acf/](https://coinmarketcap.com/community/articles/68231f05975d910b7d690acf/)
 
 **Summary:** 
-Brave Software has collaborated with Input Output to incorporate Cardano into the Brave browser's wallet, enabling its 60 million users to directly engage with the Cardano ecosystem. The integration broadens blockchain accessibility by adding support for another major cryptocurrency and aims to enhance security and user experience within the Brave browser. This development is part of Brave's ongoing efforts to support Web3 technologies, ensuring robust tools for users to engage with various decentralized ecosystems and promoting greater interoperability across different blockchain platforms.
+ChainGPT has expanded its operations by integrating with the Solana blockchain, leading to a significant increase in liquidity and trading volume of its CGPT token. The integration resulted in a 35% surge in CGPT token volume within 24 hours, indicating a strong market response. By adopting a multichain approach, ChainGPT has broadened its market reach and increased its appeal to developers and traders. This move aligns with the industry trend of embracing multichain strategies to enhance performance and user engagement across different blockchain platforms.
     
 ## Trending News
-- [ChainGPT Boosts Liquidity via Solana Expansion](https://coinmarketcap.com/community/articles/68231f05975d910b7d690acf/)
+- [Solana Aims for $300, Leads with $50M in dApp Revenue](https://coingape.com/markets/solana-price-targets-300-as-sol-outperforms-all-networks-with-50m-weekly-dapp-revenue/)
