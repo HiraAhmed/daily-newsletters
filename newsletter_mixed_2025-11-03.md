@@ -11,19 +11,19 @@
 **Source:** [https://lookonchain.com/feeds/35418](https://lookonchain.com/feeds/35418)
 
 **Summary:** 
-Ethereum's value has dropped below $3700, while traders have made significant profits from new listings on Binance and AI-related cryptocurrencies. A dormant $PEPE whale has reactivated, transferring 2.1 trillion $PEPE, worth $52M, to a new address. The market has seen substantial inflows into major cryptocurrencies and newer entries, but also experienced $270 million in liquidations. Hong Kong's Securities and Futures Commission is planning to enhance its financial infrastructure for digital assets, allowing more investment products for institutional investors.
+Ethereum's value has dropped below $3700, while traders have profited from new listings on Binance and AI-related cryptocurrencies. A dormant $PEPE whale has reactivated, transferring 2.1 trillion $PEPE, valued at $52M. The market has seen substantial inflows into major cryptocurrencies and newer entries like Hyperliquid, but also experienced $270 million in liquidations. Hong Kong's Securities and Futures Commission is planning to enhance its financial infrastructure for digital assets, allowing more investment products for institutional investors.
     
 ### Romania Prohibits Polymarket on $600M Crypto Bets
 **Source:** [https://coinmarketcap.com/community/articles/6908321a7c07627e0831005e/](https://coinmarketcap.com/community/articles/6908321a7c07627e0831005e/)
 
 **Summary:** 
-Romania's National Office for Gambling has banned Polymarket, a decentralized prediction market platform, for engaging in $600 million worth of unlicensed election-related bets. The ban targets activities involving major crypto assets like Ethereum and USDC, used in the betting processes. The President of the regulatory body clarified that the ban is based on legal grounds, not technological issues, and all forms of betting on future outcomes require appropriate licensing. This move affects local users of Polymarket and highlights the need for regulatory compliance across decentralized platforms.
+Romania's National Office for Gambling has banned Polymarket, a decentralized prediction market platform, for engaging in $600 million worth of unlicensed election-related bets. The ban targets activities involving major crypto assets like Ethereum and USDC. The President of the regulatory body clarified that the ban is based on legal grounds, not technological issues. This move highlights the broader implications for global cryptocurrency liquidity and the necessity for regulatory compliance across decentralized platforms.
     
 ### Ethereum Stablecoin Volume Reaches $2.8T in October
 **Source:** [https://cryptonews.net/news/defi/31908550/](https://cryptonews.net/news/defi/31908550/)
 
 **Summary:** 
-Ethereum's stablecoin transaction volume reached a record high of $2.8 trillion in October, reflecting a surge in decentralized exchange trading. Cryptocurrency market movements have been varied, with Dogecoin and Cardano experiencing a selloff, while Bitcoin and other major cryptocurrencies also saw declines. Former President Trump minimized his knowledge of Binance's CEO following a pardon allegedly connected to his family's cryptocurrency dealings. The Venezuelan banking sector plans to integrate stablecoins, potentially providing a more stable financial environment amidst economic challenges.
+Ethereum's stablecoin transaction volume reached a new high of $2.8 trillion in October, reflecting a surge in decentralized exchange trading. Cryptocurrency market movements have been varied, with Dogecoin and Cardano experiencing a selloff, while Bitcoin and other major cryptocurrencies also saw declines. Michael Saylor has signaled a bullish stance on Bitcoin for the upcoming week. The Venezuelan banking sector is planning to integrate stablecoins, which could provide a more stable financial environment amidst the country's economic challenges.
     
 ### U.S. Inflation Rate Hits 3.0% in September 2025
 **Source:** [https://coinmarketcap.com/community/articles/690718db7040903b426b121e/](https://coinmarketcap.com/community/articles/690718db7040903b426b121e/)
@@ -35,12 +35,12 @@ The U.S. Bureau of Labor Statistics reported an inflation rate of 3.0% in Septem
 **Source:** [https://coinmarketcap.com/community/articles/6906ed7e1ab7be27d0157841/](https://coinmarketcap.com/community/articles/6906ed7e1ab7be27d0157841/)
 
 **Summary:** 
-The European Union plans to centralize the oversight of financial and cryptocurrency markets under the European Securities and Markets Authority (ESMA). This initiative aims to enhance the supervision of stock and crypto exchanges across the EU, improving market integrity. Concerns have been raised about potential negative effects on the national competitiveness of member states, particularly France and Germany. The centralized oversight by ESMA is expected to lead to a more competitive and integrated financial framework within the EU, but raises questions about the balance between EU-wide regulation and national market autonomy.
+The European Union plans to centralize the oversight of financial and cryptocurrency markets under the European Securities and Markets Authority (ESMA). This initiative aims to enhance the supervision of stock and crypto exchanges across the EU, improving market integrity. There are concerns about the potential negative effects on the national competitiveness of member states, particularly in France and Germany. The shift towards greater centralization is seen as a step towards reducing market volatility and increasing global financial competitiveness, but raises questions about the balance between EU-wide regulation and national market autonomy.
     
 ### Privacy Coin Market Value Soars to $24 Billion
 **Source:** [https://coinmarketcap.com/community/articles/6906e09a1c9d2b7559f84a95/](https://coinmarketcap.com/community/articles/6906e09a1c9d2b7559f84a95/)
 
 **Summary:** 
-The privacy coin sector has seen a significant surge, with its market capitalization reaching $24 billion, a 14.8% increase in a single day. Leading this growth are privacy-focused cryptocurrencies such as Zcash, Monero, and Dash, with Zcash's market cap alone climbing to over $7.1 billion. This rise reflects a growing interest in cryptocurrencies that offer enhanced privacy features. The increase in market cap is influenced by broader trends such as the migration to decentralized exchanges and heightened regulatory actions, which have spurred demand for privacy coins.
+The privacy coin sector has seen a significant surge, with its market capitalization reaching $24 billion, marking a 14.8% increase in a single day. Leading this growth are prominent privacy-focused cryptocurrencies such as Zcash, Monero, and Dash, with Zcash's market cap alone climbing to over $7.1 billion. This rise reflects a growing interest in cryptocurrencies that offer enhanced privacy features. The increase in market cap is influenced by broader trends such as the migration to decentralized exchanges and heightened regulatory actions, which have spurred demand for privacy coins.
     
 ## Trending News
