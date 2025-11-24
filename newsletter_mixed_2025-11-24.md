@@ -17,24 +17,24 @@ Bitcoin and Ethereum ETFs have seen significant capital outflows over the past w
 **Source:** [https://lookonchain.com/feeds/38205](https://lookonchain.com/feeds/38205)
 
 **Summary:** 
-A trader made $448K by monitoring Binance's new listings, and an AI-driven trader amassed $17.6M through strategic investments in coins like $GOAT and $Fartcoin. A dormant $PEPE whale reactivated after 600 days, transferring $52M worth of $PEPE to a new address. Eric Jing of Ant Group highlighted the potential of blockchain smart contracts in ensuring fair income distribution among intelligent agents. The decentralized exchange Aerodrome lost about $700,000 due to a domain hijacking attack, with plans underway to compensate affected users.
+A trader made $448K by monitoring Binance's new listings, and an AI-driven trader amassed $17.6M through strategic investments in coins like $GOAT and $Fartcoin. A dormant $PEPE whale reactivated after 600 days, transferring $52M worth of $PEPE to a new address. A sniper earned $8.3M from trading $SHIRO within just 18 hours, while the decentralized exchange Aerodrome lost about $700,000 due to a domain hijacking attack.
     
 ### Debate Intensifies on Zcash's Role in Cryptocurrency
 **Source:** [https://coinmarketcap.com/community/articles/6923d961b56f671e2c822fa7/](https://coinmarketcap.com/community/articles/6923d961b56f671e2c822fa7/)
 
 **Summary:** 
-Zcash's recent surge in value and market presence has sparked debate within the cryptocurrency community, with some speculating it might be an orchestrated effort to provide 'exit liquidity' for certain stakeholders. Skepticism is fueled by unsupported claims and inaccurately reported forecasts by Fidelity analysts. Despite these concerns, Zcash's notable price increases have attracted attention, prompting vigilance and curiosity among investors and analysts.
+Zcash's recent surge in value and market presence has sparked debate within the cryptocurrency community, with some speculating it might be an orchestrated effort to provide 'exit liquidity' for certain stakeholders. Despite skepticism and inaccurately reported forecasts, Zcash has attracted attention for its notable price increases. Investors and analysts are closely watching how Zcash's rise might impact the broader crypto ecosystem.
     
 ### Solana Proposal Targets Quicker Inflation Cut
 **Source:** [https://coinmarketcap.com/community/articles/6923dce6e0582405401df6ab/](https://coinmarketcap.com/community/articles/6923dce6e0582405401df6ab/)
 
 **Summary:** 
-Solana has introduced proposal SIMD-0411 to accelerate the reduction of its inflation rate from 15% to 30%, aiming for a target inflation rate of 1.5% by 2029. This strategic adjustment is designed to enhance the deflationary nature of the SOL token, potentially increasing its scarcity and value. The proposal could decrease sell pressure and appeal to investors focused on value preservation, but might reduce rewards for validators and delegators. The community's reaction to the proposal has been mixed, with the final decision to be made through a community vote.
+Solana has proposed SIMD-0411, aiming to accelerate the reduction of its inflation rate from 15% to 30% to achieve a target inflation rate of 1.5% by 2029. This strategic adjustment could enhance the deflationary nature of the SOL token, potentially increasing its scarcity and value. The proposal has received mixed reactions from the community, with some viewing it as a proactive measure to bolster long-term value, while others express concerns about possible impacts on network security and validator participation.
     
 ### North Korean Hackers Breach Crypto Security by 20%
 **Source:** [https://coinmarketcap.com/community/articles/6923d5d0b56f671e2c822fa1/](https://coinmarketcap.com/community/articles/6923d5d0b56f671e2c822fa1/)
 
 **Summary:** 
-North Korean hackers have infiltrated up to 20% of cryptocurrency companies, using stolen identities and well-crafted resumes to gain direct access to critical systems and sensitive data. Once employed, they can manipulate transaction records, access private keys, and potentially control significant aspects of the cryptocurrency infrastructure. This strategy allows them to circumvent international sanctions, move funds internationally, launder money, and fund other prohibited activities. The revelation underscores the urgent need for the cryptocurrency industry to strengthen its defenses against internal threats and maintain the foundational trust that supports decentralized finance.
+North Korean hackers have infiltrated up to 20% of cryptocurrency companies, using stolen identities and well-crafted resumes to gain direct access to critical systems and sensitive data. Once employed, these hackers can manipulate transaction records, access private keys, and potentially control significant aspects of the cryptocurrency infrastructure. This situation underscores the urgent need for the cryptocurrency industry to strengthen its defenses against internal threats to maintain the foundational trust that supports decentralized finance.
     
 ## Trending News
